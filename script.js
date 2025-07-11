@@ -1,0 +1,1 @@
+// Paste kode JavaScript kamu di sini (akan disisipkan oleh ChatGPT nanti)
